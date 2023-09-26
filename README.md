@@ -1,3 +1,3 @@
 # My LeetCode Solutions
 
-Completing one problem per day by following [NeetCode's Roadmap](https://neetcode.io/roadmap).
+Completing one problem per day in Python from the [NeetCode 150 Roadmap](https://neetcode.io/roadmap).
