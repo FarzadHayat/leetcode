@@ -17,7 +17,7 @@ class ListNode:
 
 
 # O(n) time, O(1) space
-# Sequential solution
+# Iterative solution
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         # empty list edge case
